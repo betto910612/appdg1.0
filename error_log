@@ -1,0 +1,60 @@
+[28-Jul-2016 16:49:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 29
+[28-Jul-2016 16:49:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 49
+[28-Jul-2016 16:49:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 49
+[28-Jul-2016 16:49:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 49
+[28-Jul-2016 16:49:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 49
+[28-Jul-2016 16:49:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 49
+[28-Jul-2016 16:49:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 60
+[28-Jul-2016 16:49:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 60
+[28-Jul-2016 16:49:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 75
+[28-Jul-2016 16:49:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 77
+[28-Jul-2016 16:50:16 UTC] PHP Warning:  include_once(submenu.php): failed to open stream: No such file or directory in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 81
+[28-Jul-2016 16:50:16 UTC] PHP Warning:  include_once(): Failed opening 'submenu.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 81
+[28-Jul-2016 16:50:16 UTC] PHP Warning:  include_once(vw_Encabezado.php): failed to open stream: No such file or directory in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 105
+[28-Jul-2016 16:50:16 UTC] PHP Warning:  include_once(): Failed opening 'vw_Encabezado.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 105
+[28-Jul-2016 16:50:34 UTC] PHP Warning:  include_once(submenu.php): failed to open stream: No such file or directory in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 81
+[28-Jul-2016 16:50:34 UTC] PHP Warning:  include_once(): Failed opening 'submenu.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 81
+[28-Jul-2016 16:50:34 UTC] PHP Warning:  include_once(vw_Encabezado.php): failed to open stream: No such file or directory in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 105
+[28-Jul-2016 16:50:34 UTC] PHP Warning:  include_once(): Failed opening 'vw_Encabezado.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 105
+[28-Jul-2016 16:51:38 UTC] PHP Warning:  include_once(submenu.php): failed to open stream: No such file or directory in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 81
+[28-Jul-2016 16:51:38 UTC] PHP Warning:  include_once(): Failed opening 'submenu.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 81
+[28-Jul-2016 16:51:38 UTC] PHP Warning:  include_once(vw_Encabezado.php): failed to open stream: No such file or directory in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 105
+[28-Jul-2016 16:51:38 UTC] PHP Warning:  include_once(): Failed opening 'vw_Encabezado.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 105
+[28-Jul-2016 16:51:45 UTC] PHP Warning:  include_once(submenu.php): failed to open stream: No such file or directory in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 81
+[28-Jul-2016 16:51:45 UTC] PHP Warning:  include_once(): Failed opening 'submenu.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 81
+[28-Jul-2016 16:51:45 UTC] PHP Warning:  include_once(vw_Encabezado.php): failed to open stream: No such file or directory in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 105
+[28-Jul-2016 16:51:45 UTC] PHP Warning:  include_once(): Failed opening 'vw_Encabezado.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 105
+[28-Jul-2016 16:52:17 UTC] PHP Warning:  include_once(submenu.php): failed to open stream: No such file or directory in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 81
+[28-Jul-2016 16:52:17 UTC] PHP Warning:  include_once(): Failed opening 'submenu.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 81
+[28-Jul-2016 16:52:17 UTC] PHP Warning:  include_once(vw_Encabezado.php): failed to open stream: No such file or directory in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 105
+[28-Jul-2016 16:52:17 UTC] PHP Warning:  include_once(): Failed opening 'vw_Encabezado.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 105
+[28-Jul-2016 16:52:19 UTC] PHP Warning:  include_once(submenu.php): failed to open stream: No such file or directory in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 81
+[28-Jul-2016 16:52:19 UTC] PHP Warning:  include_once(): Failed opening 'submenu.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 81
+[28-Jul-2016 16:52:19 UTC] PHP Warning:  include_once(vw_Encabezado.php): failed to open stream: No such file or directory in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 105
+[28-Jul-2016 16:52:19 UTC] PHP Warning:  include_once(): Failed opening 'vw_Encabezado.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 105
+[28-Jul-2016 16:52:59 UTC] PHP Warning:  include_once(submenu.php): failed to open stream: No such file or directory in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 81
+[28-Jul-2016 16:52:59 UTC] PHP Warning:  include_once(): Failed opening 'submenu.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 81
+[28-Jul-2016 16:52:59 UTC] PHP Warning:  include_once(vw_Encabezado.php): failed to open stream: No such file or directory in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 105
+[28-Jul-2016 16:52:59 UTC] PHP Warning:  include_once(): Failed opening 'vw_Encabezado.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 105
+[28-Jul-2016 16:53:06 UTC] PHP Warning:  include_once(submenu.php): failed to open stream: No such file or directory in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 81
+[28-Jul-2016 16:53:06 UTC] PHP Warning:  include_once(): Failed opening 'submenu.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 81
+[28-Jul-2016 16:53:06 UTC] PHP Warning:  include_once(vw_Encabezado.php): failed to open stream: No such file or directory in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 105
+[28-Jul-2016 16:53:06 UTC] PHP Warning:  include_once(): Failed opening 'vw_Encabezado.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 105
+[28-Jul-2016 16:58:39 UTC] PHP Warning:  include_once(vw_Encabezado.php): failed to open stream: No such file or directory in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 105
+[28-Jul-2016 16:58:39 UTC] PHP Warning:  include_once(): Failed opening 'vw_Encabezado.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 105
+[28-Jul-2016 16:59:01 UTC] PHP Warning:  include_once(vw_Encabezado.php): failed to open stream: No such file or directory in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 105
+[28-Jul-2016 16:59:01 UTC] PHP Warning:  include_once(): Failed opening 'vw_Encabezado.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 105
+[28-Jul-2016 18:38:46 UTC] PHP Notice:  Undefined index: nombreCompletoUsuario in /home/digisegc/public_html/geo/vista/header.php on line 13
+[28-Jul-2016 18:38:46 UTC] PHP Notice:  Undefined index: nombrepuesto in /home/digisegc/public_html/geo/vista/header.php on line 15
+[28-Jul-2016 18:38:46 UTC] PHP Warning:  include_once(vw_Encabezado.php): failed to open stream: No such file or directory in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 105
+[28-Jul-2016 18:38:46 UTC] PHP Warning:  include_once(): Failed opening 'vw_Encabezado.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 105
+[28-Jul-2016 18:38:46 UTC] PHP Notice:  Undefined index: puestoUsuario in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 181
+[28-Jul-2016 18:38:46 UTC] PHP Notice:  Undefined index: puestoUsuario in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 181
+[28-Jul-2016 18:38:46 UTC] PHP Notice:  Undefined index: puestoUsuario in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 184
+[28-Jul-2016 19:00:28 UTC] PHP Notice:  Undefined index: nombreCompletoUsuario in /home/digisegc/public_html/geo/vista/header.php on line 13
+[28-Jul-2016 19:00:28 UTC] PHP Notice:  Undefined index: nombrepuesto in /home/digisegc/public_html/geo/vista/header.php on line 15
+[28-Jul-2016 19:00:28 UTC] PHP Warning:  include_once(vw_Encabezado.php): failed to open stream: No such file or directory in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 105
+[28-Jul-2016 19:00:28 UTC] PHP Warning:  include_once(): Failed opening 'vw_Encabezado.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 105
+[28-Jul-2016 19:00:28 UTC] PHP Notice:  Undefined index: puestoUsuario in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 181
+[28-Jul-2016 19:00:28 UTC] PHP Notice:  Undefined index: puestoUsuario in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 181
+[28-Jul-2016 19:00:28 UTC] PHP Notice:  Undefined index: puestoUsuario in /home/digisegc/public_html/geo/vista/vw_dashboard.php on line 184
